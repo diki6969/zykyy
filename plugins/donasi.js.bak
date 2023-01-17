@@ -3,7 +3,7 @@ import moment from 'moment-timezone'
 import fetch from 'node-fetch'
 import fs from 'fs'
 let handler = async (m, { conn, args, usedPrefix, command }) => {
-const messa = await prepareWAMessageMedia({ image: fs.readFileSync('.thumbnail.jpg') }, { upload: conn.waUploadToServer })
+const messa = await prepareWAMessageMedia({ image: fs.readFileSync('./media/qr.png') }, { upload: conn.waUploadToServer })
 const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productMessage": {
 "product": {

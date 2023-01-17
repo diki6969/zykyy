@@ -387,7 +387,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 │ ▸ 𝗧𝗶𝗺𝗲 : ${time}
 │ ▸ 𝗨𝗽𝘁𝗶𝗺𝗲 : ${mpt}
 └┬━━━━━━━━━━━━━━━━┈─⋆
-  │ ▸ 𝗦𝘂𝗺𝗯𝗲𝗿 : IKYY OFC
+  │ ▸ 𝗦𝘂𝗺𝗯𝗲𝗿 : YouTube ZykoBotz-MD Official 
   │ ▸ 𝗔𝘂𝘁𝗵𝗼𝗿 : ${nameown}
   │ ▸ 𝗢𝘄𝗻𝗲𝗿 : ${nameown}
   └━━━━━━━━━━━━━━━━┈─◂`

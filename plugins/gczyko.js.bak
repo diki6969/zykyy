@@ -34,11 +34,11 @@ conn.sendButtonDoc(m.chat, str, wm,' ᴏᴋᴇ ','huuu', m, { contextInfo: { ext
   }
   } }) 
           }
-handler.help = ['gckyy']
+handler.help = ['gcbul']
 
 handler.tags = ['info']
 
-handler.command = /^ikyybotz-md|gckyy$/i
+handler.command = /^zykobotz-md|gcbul$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false

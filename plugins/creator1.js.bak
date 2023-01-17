@@ -19,6 +19,6 @@ await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard
 handler.help = ['zykomods1', 'zykomods2']
 handler.tags = ['info']
 
-handler.command = /^(zykomods1|zykomods2}$/i
+handler.command = /^(zykomods1|zykomods2|zykomods3)$/i
 
 export default handler
