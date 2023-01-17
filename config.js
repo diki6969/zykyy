@@ -69,7 +69,7 @@ global.nameown = '𝐈𝐤𝐲𝐲𝐎𝐟𝐜'
 global.gcname = '𝑰𝒌𝒚𝒚 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
 global.author = 'Created By 𝑰𝒌𝒚𝒚𝑶𝒇𝒄'
 global.namabot = '𝗜𝗞𝗬𝗬𝗕𝗢𝗧𝗭-𝗠𝗗'
-global.namebot = '𝗜𝗞𝗬𝗬𝗕𝗢𝗧𝗭-𝗠𝗗
+global.namebot = '𝗜𝗞𝗬𝗬𝗕𝗢𝗧𝗭-𝗠𝗗'
 global.packname2 = '𝗜𝗞𝗬𝗬-𝗠𝗗'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
